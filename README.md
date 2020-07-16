@@ -110,5 +110,5 @@ Edit `app/build.gradle` like below.
 
 
 ## In application
-![](https://github.com/JY-Dev/CalendarView/blob/master/sampleImg1.jpg)
-![](https://github.com/JY-Dev/CalendarView/blob/master/sampleImg2.jpg)
+![](https://github.com/JY-Dev/MultiRadioGroupView/blob/master/sampleImg1.jpg)
+![](https://github.com/JY-Dev/MultiRadioGroupView/blob/master/sampleImg2.jpg)
