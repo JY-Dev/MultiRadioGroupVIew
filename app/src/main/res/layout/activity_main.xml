@@ -10,44 +10,55 @@
     <jaeyoung.kim.multiradiogroup.MultiRadioGroupView
         android:id="@+id/test_view"
         android:layout_width="match_parent"
-        android:layout_height="wrap_content">
-
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RadioLayer1"/>
         <RadioGroup
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
             <RadioButton
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="알라라라라"/>
+                android:text="RD01"/>
 
             <RadioButton
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:text="RD02"/>
 
             <RadioButton
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:text="RD03"/>
         </RadioGroup>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="RadioLayer2"/>
         <RadioGroup
             android:layout_width="match_parent"
             android:layout_height="wrap_content">
             <RadioButton
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:text="RD04"/>
 
             <RadioButton
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:text="RD05"/>
 
             <RadioButton
                 android:layout_width="wrap_content"
-                android:layout_height="wrap_content"/>
+                android:layout_height="wrap_content"
+                android:text="RD06"/>
         </RadioGroup>
 
     </jaeyoung.kim.multiradiogroup.MultiRadioGroupView>
 
-<Button
-    android:id="@+id/btn"
-    android:layout_width="wrap_content"
-    android:layout_height="wrap_content"/>
 </LinearLayout>

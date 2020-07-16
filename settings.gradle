@@ -1,2 +1,3 @@
+include ':MultiRadioGroupView'
 rootProject.name='MultiRadioGroup'
 include ':app'
