@@ -101,11 +101,11 @@ Edit `app/build.gradle` like below.
 ```
 
 ## In Code (Function)
-### multiRadioGroup.getCheckId() - Return your checked Radio Button Id
-### multiRadioGroup.getCheckedName() - Return your checked Radio Button Name
+#### multiRadioGroup.getCheckId() - Return your checked Radio Button Id
+#### multiRadioGroup.getCheckedName() - Return your checked Radio Button Name
 
-### If you Dynamically Add View
-### You Call multiRadioGroup.refreshView() - Refresh MutiRadioGroupView
+#### If you Dynamically Add View
+#### You Call multiRadioGroup.refreshView() - Refresh MutiRadioGroupView
 
 
 
