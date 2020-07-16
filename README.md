@@ -1,5 +1,5 @@
 # MultiRadioGroupVIew
-## absorption another RadioGroup. It's CustomView In Android Studio
+## absorption another RadioGroup. It's CustomView MultiRadioGroup In Android Studio
 
 ### Library Version
 
